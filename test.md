@@ -6,13 +6,17 @@ __This will also be bold__
 
 ~~This text will be delete~~
 
--George washington
--John Adams
-*Thomas Jefferson
+- George washington
+- John Adams
+* Thomas Jefferson
 
-1.James Madison
-2.James Monroe
-3.John Quincy Adams
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
 
 - [x] Finish my changes
 - [ ] push my commits to GitHub
